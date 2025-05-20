@@ -118,16 +118,10 @@
           <mxGeometry y="78" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="PYzfADlr74QwkePmsEBO-34" value="Reserva" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="980" width="140" height="104" as="geometry" />
+          <mxGeometry x="60" y="980" width="140" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="PYzfADlr74QwkePmsEBO-35" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="PYzfADlr74QwkePmsEBO-34">
-          <mxGeometry y="26" width="140" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="PYzfADlr74QwkePmsEBO-36" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="PYzfADlr74QwkePmsEBO-34">
-          <mxGeometry y="52" width="140" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="PYzfADlr74QwkePmsEBO-37" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="PYzfADlr74QwkePmsEBO-34">
-          <mxGeometry y="78" width="140" height="26" as="geometry" />
+        <mxCell id="PYzfADlr74QwkePmsEBO-35" value="&lt;code data-end=&quot;1196&quot; data-start=&quot;1187&quot;&gt;+ cliente:&lt;/code&gt;&lt;div&gt;&lt;code data-end=&quot;1211&quot; data-start=&quot;1198&quot;&gt;+ alojamiento:&lt;/code&gt;&lt;/div&gt;&lt;div&gt;&lt;code data-end=&quot;1226&quot; data-start=&quot;1213&quot;&gt;+ fechaInicio:&lt;/code&gt;&lt;/div&gt;&lt;div&gt;&lt;code data-end=&quot;1238&quot; data-start=&quot;1228&quot;&gt;+ fechaFin:&lt;/code&gt;&lt;/div&gt;&lt;div&gt;&lt;code data-end=&quot;1254&quot; data-start=&quot;1240&quot;&gt;+ numHuespedes:&lt;/code&gt;&lt;/div&gt;&lt;div&gt;&lt;code data-end=&quot;1265&quot; data-start=&quot;1256&quot;&gt;+ factura:&lt;/code&gt;&lt;/div&gt;&lt;div&gt;&lt;code data-end=&quot;1275&quot; data-start=&quot;1267&quot;&gt;+ estado:&lt;/code&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="PYzfADlr74QwkePmsEBO-34">
+          <mxGeometry y="26" width="140" height="134" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
